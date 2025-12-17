@@ -19,5 +19,6 @@ while True:
         break
     except:
         print("Eroare!")
+        continue
 
 inverted_index(s)
